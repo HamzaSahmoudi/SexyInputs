@@ -1,4 +1,4 @@
-import Cleave from "./node_modules/cleave.js/dist/cleave-esm.min.js";
+import Cleave from "./../SexyInputs/node_modules/cleave.js/dist/cleave-esm.min.js";
 
 var cleaveName = new Cleave("#name", {
 	prefix: "STUDENT-",
